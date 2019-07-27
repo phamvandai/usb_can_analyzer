@@ -17,4 +17,4 @@ This is C/C++ library for PC to work with USB CAN Analyzer (example from [Seeed 
 
 	void                CanUsb_ReceiveByteUart(CanUsbHandleType pvHandle, uint8_t u8Rx);
 
-Usage example with Qt can be found [here](QtExample)
+Usage example with Qt can be found [here](QtExample).
